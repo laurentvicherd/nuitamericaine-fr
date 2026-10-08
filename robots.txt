@@ -1,0 +1,7 @@
+# Nuit Américaine — nuitamericaine.fr
+User-agent: *
+Allow: /
+Disallow: /merci
+Disallow: /en/thanks
+
+Sitemap: https://nuitamericaine.fr/sitemap-index.xml
